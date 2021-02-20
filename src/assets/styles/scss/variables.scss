@@ -1,0 +1,14 @@
+
+// COLORS
+$blue100: #0083FF;
+$darkBlue48: rgba(45, 67, 121, 0.48);
+$darkBlue100: #2D4379;
+$red: #ff406f;
+
+:export {
+  // COLORS
+  blue100: $blue100;
+  darkBlue48: $darkBlue48;
+  darkBlue100: $darkBlue100;
+  red: $red;
+}
